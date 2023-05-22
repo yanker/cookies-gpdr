@@ -32,10 +32,6 @@ This plugin JS, is a solution for cookies & GPDR.  Update 2023
 * 1.0 - (22/05/2023)
     * Initial Commit
 
-## License
-
-This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE - see the LICENSE.md file for details
-
 ## References
 
 * [free-privacy-policy](https://www.freeprivacypolicy.com/free-cookie-consent/)
