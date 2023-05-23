@@ -29,8 +29,8 @@ This plugin JS, is a solution for cookies & GPDR.  Update 2023
 ```
 ## Version History
 
-* 1.0 - (22/05/2023)
-    * Initial Commit
+* 1.0 
+    * Initial Commit - (22/05/2023)
 
 ## References
 
